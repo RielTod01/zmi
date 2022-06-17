@@ -11,7 +11,7 @@ let ye = `@${m.sender.split`@`[0]}`
 let esce = `
 Gak ada ngab🐦
 Mending jasa run aja
-wa.me//6285828764046
+wa.me//6282146218274
 conn.sendBut(m.chat, esce, '📮 makasih ngab', 'Thanks', '.menu', m) 
 }
 handler.help = ['sckri']
