@@ -525,28 +525,28 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: '🔮ISTAGRAM🔮',
+               displayText: '🔮𝐈𝐒𝐍𝐓𝐀𝐆𝐑𝐀𝐌🔮',
                url: webm
              }
 
            },
              {
              urlButton: {
-               displayText: '🎮GROUP BOT🎮', 
+               displayText: '🎮𝐆𝐑𝐎𝐔𝐏 𝐁𝐎𝐓🎮', 
                url: gc
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '🐤CREATOR BOT🐤',
+               displayText: '🐤𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐁𝐎𝐓🐤',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-        displayText: '🪀SEWABOT🪀',
+        displayText: '🪀𝐒𝐄𝐖𝐀𝐁𝐎𝐓🪀',
                id: '.sewazifa',
              }
 
